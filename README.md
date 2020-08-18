@@ -8,7 +8,7 @@ This is a separate role due to ordering issues with the rest of the FGCI ansible
 Requirements
 ------------
 
-Works on CentOS 7.
+Works on CentOS 7 and CentOS 8.
 
 Role Variables
 --------------
